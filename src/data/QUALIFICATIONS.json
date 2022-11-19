@@ -1,0 +1,48 @@
+{
+    "ALL":[        
+      {
+      "CERTIFIER": "NVIDIA",
+      "Course_Title": "Fundamentals of Accelerated Computing with CUDA Python",
+      "Specification":"Creating CUDA kernels and effective memory management",
+      "photo": "NVIDIA.png",
+      "link":"https://courses.nvidia.com/certificates/2d076d2306b84994a628f385fe4a5def"
+    },
+
+        {
+            "CERTIFIER": "UDEMY",
+            "Course_Title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+            "Specification":"Implementation of linear regression, SVR, random forrest, decission trees, logistic regression, KNN, SVM, K-Means, HCLUST, ARULEZ, ECLAT, CNN, PCA, LDA, XGBoost",
+            "photo": "ML.png",
+            "link":"https://www.udemy.com/certificate/UC-5e32df29-fe7a-4153-8578-72024b050a12/"
+          },
+    {
+        "CERTIFIER": "UDEMY",
+        "Course_Title": "Beginner Full Stack Web Development: HTML, CSS, React & Node",
+        "Specification":"Web development with HTML, CSS, Bootstrap 4, ES6 React and Node",
+        "photo": "REACT.png",
+        "link": "https://www.udemy.com/certificate/UC-7ff8e8e5-112b-4835-91c2-d23783b1f153/"
+    },
+    {
+   
+      "CERTIFIER": "UDEMY",
+      "Course_Title": "TensorFlow Developer Certificate in 2023: Zero to Mastery",
+      "Specification":"Building classification, regression and neural network models with TensorFlow; CNN, NLP, image classification, time series, transfer learning",
+      "photo": "TF.png",
+      "link":"https://www.udemy.com/certificate/UC-73a2e217-b584-4614-85b5-af52d5d00c65/"
+    },
+    {
+        "CERTIFIER": "UDEMY",
+        "Course_Title": "Complete Ethical Hacking Bootcamp 2023: Zero to Mastery",
+        "Specification":"Nmap Scaning, Detection of services running on ports, Metasploit, payload creation, Virus Persistence, information gathering, sql injection, ARP spoofing",
+        "photo": "pirate.png",
+        "link":"https://www.udemy.com/certificate/UC-c7ce7a4f-d3fd-4a55-b383-107103f7eb0b/"
+      },
+      {
+        "CERTIFIER": "UDEMY",
+        "Course_Title": "SQL - MySQL for Data Analytics and Business Intelligence",
+        "Specification":"Basic Data manipulation and querring",
+        "photo": "sql.png",
+        "link":"https://www.udemy.com/certificate/UC-fa1810d6-cf61-47ce-aeff-54a742164dfb/"
+      }
+  ]
+}

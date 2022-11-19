@@ -1,0 +1,63 @@
+.navbar_
+    display: flex
+    flex-direction: row
+    gap: 10px
+    justify-content: flex-end
+    z-index: 999
+    @media screen and (max-width: 960px)
+        display: none 
+        flex-direction: column
+        background-color: black
+
+.navbar_text_BURGIR
+    display: none
+    @media screen and (max-width: 960px) 
+        display: inline
+        @include  NAVBAR_MIX
+        font-size: 2rem
+        align-content: right
+        padding-right: 20px
+
+.navbar_item_burgir
+    margin-left: auto
+    margin-right: 0
+    background: black
+
+
+    
+
+.navbar_item
+    @include  NAVBAR_MIX
+    &:link
+        @include  NAVBAR_MIX
+    &:visited 
+        @include  NAVBAR_MIX
+    &:hover 
+        @include  NAVBAR_MIX
+    &:active 
+        @include  NAVBAR_MIX
+    @media screen and (max-width: 960px) 
+        margin-top: 10px
+        margin-bottom: 5px
+        text-align: center
+
+.navbar_text
+    @include NAVBAR_MIX
+    font-size: 1.5rem
+    font-family: Arial, sans-serif
+    &:hover
+        @include NAVBAR_MIX
+        font-size: 1.5rem
+        color: $Teal
+
+.sticky
+    position: fixed
+    top: 0
+    width: 100%
+
+.NAV_ALL
+    background: black
+    position: fixed
+    top: 0
+    width: 100%
+    z-index: 10

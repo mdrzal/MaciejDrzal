@@ -1,0 +1,24 @@
+{
+    "ALL":[
+    {"_id": "63733fa70e7d923c531415fb",
+      "University": "Manchester University",
+      "Degree": "PhD",
+      "Specification":"Multi-omic analyses of human genome",
+      "photo": "MANCHESTER_UNIVERSITY.jpg"
+    },
+    {
+      "_id": "63733fa743325087d112b297",
+      "University": "Aberdeen University",
+      "Degree": "Masters",
+      "Specification":"Bioinformatics, Bio-Business, Biotechnology",
+      "photo": "ABERDEEN_UNIVERSITY.jpg"
+    },
+    {
+        "_id": "63733fa743325087d112b297",
+        "University": "Bradford University",
+        "Degree": "BSc",
+        "Specification":"Biomedical Science",
+        "photo": "BRADFORD_UNIVERSITY.jpg"
+      }
+  ]
+}

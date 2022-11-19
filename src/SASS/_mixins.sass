@@ -1,0 +1,33 @@
+// mixins
+
+@mixin TEXT_MIX_1
+    color: $misty-blue
+    font-weight: bold
+
+@mixin NAVBAR_MIX
+    @include TEXT_MIX_1
+    padding-right: 1%
+    text-decoration: none
+    list-style: none
+    color: white
+
+@mixin TEXT_MIX_2 
+    @include TEXT_MIX_1
+    text-align: center
+    font-weight: bold
+    color: $misty-blue
+    padding-top: 1rem
+    padding-bottom: 1.5rem
+    font-size: 3rem
+    margin-top: 50px
+
+@mixin image_circle
+    border-radius: 50% 50%
+    padding: 5px
+    background-image: linear-gradient(45deg, $grey1 0%, $grey1 100%)
+    border: 3px solid #ccc
+    object-fit: cover
+    background-size: cover
+    background-position: center center
+    border: 20px black
+    

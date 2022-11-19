@@ -1,0 +1,121 @@
+.MAIN_DIV
+
+
+body
+    background-image: linear-gradient(to bottom right, #1C1C1C 10%, #494949 360%)
+    background-position: center
+    background-repeat: no-repeat
+    background-attachment: fixed
+
+.Profile_PIC_CONTAINER
+    padding-top: 10px
+    padding-left: 10px
+
+.Profile-Pic 
+    border-radius: 50% 50%
+    padding: 5px
+    background-image: linear-gradient(45deg, $grey1 0%, $grey1 100%)
+    border: 3px solid #ccc
+    width: 25rem
+    height: 25rem
+    object-fit: cover
+    border: 20px black
+    @media screen and (max-width: 960px) 
+        width: 10rem
+        height: 10rem
+    @media screen and (max-width: 400px)
+        width: 9rem
+        height: 9rem
+
+.Profile-Name
+    @include TEXT_MIX_1
+    font-size: 2.5rem
+    margin-top: 0px
+    margin-bottom: 2px
+    @media screen and (max-width: 960px) 
+        font-size: 1.5rem
+    @media screen and (max-width: 450px) 
+        font-size: 1.2rem
+        
+
+
+.Profile-Name-2
+    color: $turquoise
+    font-size: 1.3rem
+    margin-top: 1px
+    margin-bottom: 0px
+    @media screen and (max-width: 960px) 
+        font-size: 0.8rem
+    @media screen and (max-width: 450px)
+        font-size: 0.6rem
+
+
+.Photo-and-about
+    display: flex
+    margin-top: 70px
+    @media screen and (max-width: 960px)
+        margin-top: 45px 
+
+.PHOTO_TEXT
+    display: flex
+    flex-basis: 1 
+    flex-direction: column
+    align-items: center
+    align-content: center
+
+.COL_FLEX_1
+    display: flex
+    flex-basis: 4 
+    flex-direction: column
+    align-content: left
+    justify-content: center
+    align-items: flex-start
+    
+
+.EMPTY_COL
+    display: flex
+    flex-grow: 1
+
+
+.ABOUT_ME_TEXT
+    @include TEXT_MIX_1
+    text-align: left
+    font-weight: bold
+    color: $misty-blue
+    padding-left: 5%
+    font-size: 3rem
+    @media screen and (max-width: 960px) 
+        font-size: 1.4rem
+    @media screen and (max-width: 450px)
+        font-size: 1.4rem
+
+.ABOUT_PARAGRAPH
+    color: $turquoise
+    width: 80%
+    padding-left: 5%
+    line-height: 1.8
+    margin-top: 0.3rem
+    font-size: 1.2rem
+    text-align: justify
+    @media screen and (max-width: 960px) 
+        font-size: 0.8rem
+        margin-top: 0.5rem
+        padding-left: 5%
+        width: 90%
+    @media screen and (max-width: 450px)
+        font-size: 0.6rem
+        margin-top: 0.2rem
+        padding-left: 5%
+        width: 90%
+        line-height: 1.5
+
+
+.Photo-Profile-text
+    display: flex
+    flex-direction: column
+    align-content: center
+    justify-content: center
+    align-items: center
+
+.navbar_text_BURGIR
+    float: right
