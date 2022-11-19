@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MaciejDrzal/static/css/main.b10284ef.css",
+    "main.js": "/MaciejDrzal/static/js/main.69a76c19.js",
+    "static/js/787.dc33bb5a.chunk.js": "/MaciejDrzal/static/js/787.dc33bb5a.chunk.js",
+    "static/media/Profile_Pic.jpg": "/MaciejDrzal/static/media/Profile_Pic.e6cb04122dacd55be3a2.jpg",
+    "static/media/REACT.png": "/MaciejDrzal/static/media/REACT.8a6fc0a24a800d1e0f4a.png",
+    "static/media/pirate.png": "/MaciejDrzal/static/media/pirate.8c7b9cb5265e60a1f251.png",
+    "static/media/TF.png": "/MaciejDrzal/static/media/TF.2e600df8bf7dc40e2886.png",
+    "static/media/sql.png": "/MaciejDrzal/static/media/sql.9c9e418452a111f0d760.png",
+    "static/media/NVIDIA.png": "/MaciejDrzal/static/media/NVIDIA.1e68ed17521760f7d68d.png",
+    "static/media/ML.png": "/MaciejDrzal/static/media/ML.3833ddc5ea90581a7d78.png",
+    "static/media/BRADFORD_UNIVERSITY.jpg": "/MaciejDrzal/static/media/BRADFORD_UNIVERSITY.06acf84a2b0b80492892.jpg",
+    "static/media/ABERDEEN_UNIVERSITY.jpg": "/MaciejDrzal/static/media/ABERDEEN_UNIVERSITY.f27636fb62af82571a45.jpg",
+    "index.html": "/MaciejDrzal/index.html",
+    "main.b10284ef.css.map": "/MaciejDrzal/static/css/main.b10284ef.css.map",
+    "main.69a76c19.js.map": "/MaciejDrzal/static/js/main.69a76c19.js.map",
+    "787.dc33bb5a.chunk.js.map": "/MaciejDrzal/static/js/787.dc33bb5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10284ef.css",
+    "static/js/main.69a76c19.js"
+  ]
+}
