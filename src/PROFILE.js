@@ -49,7 +49,7 @@ export default function App2() {
                     <div class="Photo-Profile-text">
                         <h1 class="Profile-Name">MACIEJ DRZAL</h1>
                         <h3 class="Profile-Name-2">Web Development</h3>
-                        <h3 class="Profile-Name-2"> Data Vizualization</h3>
+                        <h3 class="Profile-Name-2"> Data Visualization</h3>
                         <h3 class="Profile-Name-2">Data Science</h3>
                         <h3 class="Profile-Name-2">Analytics</h3>
                 
@@ -60,8 +60,8 @@ export default function App2() {
 
             <div class="COL_FLEX_1">
                 <h1 class="ABOUT_ME_TEXT" id="ABOUT_ID">ABOUT ME</h1>
-                <p class="ABOUT_PARAGRAPH">I am a PhD student who really enjoys to code! My research project is focused on multi-omic analysis of the human kidney. My weapon of choice is R, however, i am also comfortable with Python.</p>
-                <p class="ABOUT_PARAGRAPH">Apart from machine learning and analitical skills I am capable of deploying models to world wide web using Shiny mixed with other languages and technologies such as CSS, Javascript and HTML</p>
+                <p class="ABOUT_PARAGRAPH">I am a Ph.D. student who really enjoys to code! My research project is focused on the multi-omic analysis of the human kidney. My weapon of choice is R, however, I am also comfortable with Python.</p>
+                <p class="ABOUT_PARAGRAPH">Apart from machine learning and analytical skills, I am capable of deploying models using Shiny mixed with other languages and technologies such as CSS, Javascript, and HTML</p>
             </div>
 
         </div>
